@@ -22,7 +22,6 @@ int squareRoot(int n){
     }   
     return ans;
 }
-
 double morePrecision(int n, int precision,int tempSol){
     double factor = 1;
     double ans = tempSol;
